@@ -65,3 +65,5 @@ I decided to add the outline to pac man to enhance the clarity on him with every
 Files corrupted
 all scripts and shaders are still there
 
+ "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl" is the main cause of the error, when i asked the TA he said it likely was a library error so hopefuly it works on your end 
+
