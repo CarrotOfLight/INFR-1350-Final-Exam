@@ -62,5 +62,6 @@ Outline
 
 I decided to add the outline to pac man to enhance the clarity on him with everything going on already in the scene. To do this I first had to cull the object in the front so the outline would only appear around the object. I then had transformed the object into clip space so I could then calculate the normals based on world position multiplied by UNITY\_MATRIX\_IT\_MV. I then added the offset position and multiplied it to finalise the outline location (makes it appear on the outside of the object). 
 
-
+Files corrupted
+all scripts and shaders are still there
 
